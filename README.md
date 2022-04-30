@@ -10,8 +10,8 @@ Display Information about me, my previous work and contact information.
 * CSS
 
 ## Website
-https://lindseyhsiao.github.io/portfolio-homework/ 
 
+https://lindseyhsiao.github.io/portfolio-homework
 
 
 

@@ -182,7 +182,7 @@ article img {
 .site {
     flex: 0 70%;
 }
-
+}
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 @media screen and (max-width: 768px) {
@@ -190,6 +190,7 @@ article img {
 /*this will be applied on any screen between 768px and 575px */
 section { 
     padding: 30px 15px;
+}
 }
 
 
@@ -205,3 +206,4 @@ section {
 .site {
     flex: 0 100%;
 }
+}     
